@@ -12,15 +12,18 @@
     }
     h2 {
       text-align: center;
+      margin-bottom: 40px;
+    }
+    .video-container {
+      max-width: 720px;
+      margin: 0 auto 40px auto;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+      border-radius: 10px;
+      overflow: hidden;
     }
     video {
-      max-width: 100%;
-      border-radius: 10px;
-      box-shadow: 0 2px 8px rgba(0,0,0,0.2);
-      margin-bottom: 30px;
-    }
-    p {
-      text-align: center;
+      width: 100%;
+      display: block;
     }
   </style>
 </head>
@@ -28,47 +31,47 @@
 
   <h2>🎥 Demo Videos</h2>
 
-  <p>
+  <div class="video-container">
     <video controls muted autoplay loop>
       <source src="demo/Demo_1.mp4" type="video/mp4">
       Your browser does not support the video tag.
     </video>
-  </p>
+  </div>
 
-  <p>
+  <div class="video-container">
     <video controls muted autoplay loop>
       <source src="demo/Demo_2.mp4" type="video/mp4">
       Your browser does not support the video tag.
     </video>
-  </p>
+  </div>
 
-  <p>
+  <div class="video-container">
     <video controls muted autoplay loop>
       <source src="demo/Demo_3.mp4" type="video/mp4">
       Your browser does not support the video tag.
     </video>
-  </p>
+  </div>
 
-  <p>
+  <div class="video-container">
     <video controls muted autoplay loop>
       <source src="demo/Demo_4.mp4" type="video/mp4">
       Your browser does not support the video tag.
     </video>
-  </p>
+  </div>
 
-  <p>
+  <div class="video-container">
     <video controls muted autoplay loop>
       <source src="demo/Demo_5.mp4" type="video/mp4">
       Your browser does not support the video tag.
     </video>
-  </p>
+  </div>
 
-  <p>
+  <div class="video-container">
     <video controls muted autoplay loop>
       <source src="demo/Demo_6.mp4" type="video/mp4">
       Your browser does not support the video tag.
     </video>
-  </p>
+  </div>
 
 </body>
 </html>
