@@ -3,43 +3,25 @@
 <h2 align="center">🎥 Demo Videos</h2>
 
 <p align="center">
-  <video width="100%" controls muted autoplay loop>
-    <source src="demo/Demo_1.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
+  <img src="demo/Demo_1.gif" width="100%" />
 </p>
 
 <p align="center">
-  <video width="100%" controls muted autoplay loop>
-    <source src="demo/Demo_2.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
+  <img src="demo/Demo_2.gif" width="100%" />
 </p>
 
 <p align="center">
-  <video width="100%" controls muted autoplay loop>
-    <source src="demo/Demo_3.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
+  <img src="demo/Demo_3.gif" width="100%" />
 </p>
 
 <p align="center">
-  <video width="100%" controls muted autoplay loop>
-    <source src="demo/Demo_4.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
+  <img src="demo/Demo_4.gif" width="100%" />
 </p>
 
 <p align="center">
-  <video width="100%" controls muted autoplay loop>
-    <source src="demo/Demo_5.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
+  <img src="demo/Demo_5.gif" width="100%" />
 </p>
 
 <p align="center">
-  <video width="100%" controls muted autoplay loop>
-    <source src="demo/Demo_6.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
+  <img src="demo/Demo_6.gif" width="100%" />
 </p>
